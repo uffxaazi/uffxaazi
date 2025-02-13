@@ -3,13 +3,26 @@
   <!-- Dynamic Header SVG -->
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=27,24,36,20,28&height=270&section=header&text=🚀👨‍💻Hi%20There!%20👾👋&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20Mohamed%20Aazil's%20GitHub%20Profile!&descAlignY=55&descAlign=50" width="100%" />
 
-  <!-- Profile Visit Count -->
-  [![](https://visitcount.itsvg.in/api?id=VehanRajintha&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<!-- Animated Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=brightgreen&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/VehanRajintha" alt="Profile Forks"></a>
+  <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=blue&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/VehanRajintha" alt="Profile Stars"></a>
+</p>
 
-  <!-- Typing SVG -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Web+Developer;Video+And+Photo+Editor;Always+Learning+New+Things" alt="Typing SVG" /></a>
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://github.com/VehanRajintha">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=F70000&background=2BFFE500&center=true&vCenter=true&width=600&height=100&lines=Software+Developer+%F0%9F%92%BB;Network+Engineer+%F0%9F%8C%90;Ethical+Hacker+%F0%9F%94%90;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+  </a>
+</p>
 
-</div>
+<!-- Rainbow Stats Line -->
+<img src="https://github.com/VehanRajintha/VehanRajintha/blob/main/assets/rainbow-line.gif" width="100%">
+
+<!-- Profile Views Counter with Animation -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VehanRajintha&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS" alt="Profile Views">
+</p>
 
 <!-- About Me Section -->
 ## 👨‍💻 About Me
