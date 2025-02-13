@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Dynamic Header SVG -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&section=header&text=Hi,%20I'm%20Mohamed%20Aazil%20👋&fontSize=40&fontAlign=50&fontAlignY=35&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=27,24,36,20,28&height=300&section=header&text=Hi%20There!%20👋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20Vehan%20Rajintha's%20GitHub%20Profile!&descAlignY=55&descAlign=50" width="100%" />
 
   <!-- Profile Visit Count -->
   [![](https://visitcount.itsvg.in/api?id=VehanRajintha&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
