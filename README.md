@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=27,24,36,20,28&height=270&section=header&text=🚀👨‍💻Hi%20There!%20👾👋&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20Mohamed%20Aazil's%20GitHub%20Profile!&descAlignY=55&descAlign=50" width="100%" />
 
   <!-- Profile Visit Count -->
-  [![](https://visitcount.itsvg.in/api?id=VehanRajintha&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=uffxaazi&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Web+Developer;Video+And+Photo+Editor;Always+Learning+New+Things" alt="Typing SVG" /></a>
@@ -16,12 +16,11 @@
 
 * 😊 I'm Mohamed Aazil
 * 👦🏻 I'm 21 years old
-* 👀 I'm interested in Software developing, Hacking, Web developing and...
-* 🌱 I'm currently ......
-* 🕺 I'm also member of .....
+* 👀 I'm interested in Software Engineering, Web Development, Data Structures, and Artificial Intelligence
+* 🌱 I'm currently pursuing a Higher National Diploma (HND) in Software Engineering
+* 💻 I regularly work with Python, Java, C#, and SQL for various programming and database design projects
 * 💞️ I'm looking to collaborate on building websites and web apps
 * 📫 Email me via aazilsami2005@gmail.com to contact
-
 
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack
@@ -29,10 +28,13 @@
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -55,14 +57,14 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uffxaazi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VehanRajintha&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uffxaazi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 <!-- GitHub Trophies -->
 ## 🏆 GitHub Trophies
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=VehanRajintha&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=uffxaazi&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
 
@@ -70,9 +72,9 @@
 ## 📈 Contribution Graph
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VehanRajintha/VehanRajintha/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VehanRajintha/VehanRajintha/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VehanRajintha/VehanRajintha/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uffxaazi/uffxaazi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uffxaazi/uffxaazi/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/uffxaazi/uffxaazi/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -81,7 +83,7 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-aazil-the-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VehanRajintha)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uffxaazi)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/uffx_aazi)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/uffx_aazi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aazilsami2005@gmail.com)
